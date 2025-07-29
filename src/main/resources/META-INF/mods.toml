@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="flighttracker"
+version="0.1.0-beta"
+displayName="Flight Tracker [Beta]"
+description='''
+A whole new way of flight tracking. For the first tiem, you are able to track live flights in Minecraft with a very simple, !
+'''
+
+# Optional metadata
+authors="SabitTSDM07"
