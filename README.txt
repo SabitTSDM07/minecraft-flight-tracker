@@ -2,7 +2,7 @@
 
 A real-time aircraft tracking mod for Minecraft (Forge 1.20.1) powered by OpenSky Network.
 
-![Plane Screenshot](https://your.screenshot.link/here.png)
+
 
 ## 📦 Features
 - Live tracking of real-world aircraft
